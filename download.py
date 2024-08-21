@@ -15,7 +15,7 @@
 
 # GPU hardware accelerated encoding options, change this to suit your GPU
 # set to "nvidia" or "amd", or an empty string "" encode on the CPU
-hwaccel = "amd"
+hwaccel = ""
 
 ## End Config ##
 
